@@ -28,15 +28,16 @@
 - [IOC](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/Spring.md)
 - [AOP](https://juejin.im/post/5b06bf2df265da0de2574ee1)
 - [Spring Boot](./doc/spring/springBoot.md)
-- [Spring 单例模式]()
+- [Spring 单例模式](https://juejin.im/post/594084fd61ff4b006cb425f1)
 
 # Redis
 - [redis 入门](./doc/redis/induction.md)
 - [redis 为什么这么快](https://zhuanlan.zhihu.com/p/57089960)
 - [分布式锁](./doc/redis/dislock.md)
 - [常见缓存问题](./doc/redis/problem.md)
-- [如何保证redis高可用]
+- [如何保证redis高可用](https://blog.csdn.net/sunhuiliang85/article/details/78361211)
 - [redis是单线程还是多线程]
+- [redis数据结构](./doc/redis/dataStructure.md)
 
 
 # DB
