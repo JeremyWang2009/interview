@@ -23,6 +23,7 @@
 - [对象深拷贝和浅拷贝](./doc/java/objectCopy.md)
 
 - [多线程](./doc/java/multiThread.md)
+- [volatile](./doc/java/volatile.md)
 
 # Spring
 - [IOC](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/Spring.md)
